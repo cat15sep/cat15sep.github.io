@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "cat15sep"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : # "I am an **amazing** person."
+  location         : # "Somewhere"
   email            :
   links:
     - label: "Email"
@@ -250,6 +250,7 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path>/my-awesome-category/index.html ~> path: /
+
 category_archive:
   type: liquid
   path: /categories/
@@ -288,23 +289,24 @@ defaults:
       layout: posts
       author_profile: false
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
       show_date: true
       date_format: "%Y-%m-%d"
 
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      sidebar:
-        nav: "docs"
+  # # _docs
+  # - scope:
+  #     path: ""
+  #     type: docs
+  #   values:
+  #     sidebar:
+  #       nav: "docs"
 
 category_archive:
   type: liquid
   path: /categories/
+
 tag_archive:
   type: liquid
   path: /tags/

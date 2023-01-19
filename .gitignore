@@ -29,4 +29,5 @@ _asset_bundler_cache
 _site
 
 # blog private folders
-_posts/gaul
+_posts/gaul/*
+_posts/diary/*
