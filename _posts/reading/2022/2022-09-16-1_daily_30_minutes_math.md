@@ -1,5 +1,6 @@
 ---
 title: "하루 30분 수학-최수일(2014, 비아북)"
+layout: single
 categories: reading
 tags: [reading, 최수일, "하루 30분 수학"]
 ---

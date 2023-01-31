@@ -1,5 +1,6 @@
 ---
 title: "잘될 수 밖에 없는 너에게-최서영 (2022, 북로망스)"
+layout: single
 categories: reading
 tags: [reading, 최서영, "잘될 수 밖에 없는 너에게"]
 ---

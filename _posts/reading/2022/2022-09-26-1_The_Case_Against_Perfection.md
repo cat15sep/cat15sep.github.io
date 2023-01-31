@@ -1,5 +1,6 @@
 ---
 title: "완벽에 대한 반론-마이클 샌델(2007, 와이즈베리)"
+layout: single
 categories: reading
 tags: [reading, "마이클 센델", "완벽에 대한 반론"]
 ---

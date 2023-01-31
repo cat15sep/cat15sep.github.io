@@ -1,5 +1,6 @@
 ---
 title: "아버지의 해방일지-정지아(2022,창비)"
+layout: single
 category: reading
 tags: [reading, 정지아, "아버지의 해방일지"]
 ---

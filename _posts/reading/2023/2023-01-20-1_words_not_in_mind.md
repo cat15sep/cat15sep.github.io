@@ -1,5 +1,6 @@
 ---
 title: "마음에 없는 소리-김지연(2022,문학동네)"
+layout: single
 category: reading
 tags: [reading, 김지연, "마음에 없는 소리"]
 ---

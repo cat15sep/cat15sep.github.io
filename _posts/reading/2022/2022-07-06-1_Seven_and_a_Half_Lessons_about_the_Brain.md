@@ -1,5 +1,6 @@
 ---
 title: "이토록 뜻밖의 뇌과학-리사 펠드먼 배럿(2021, 더퀘스트)"
+layout: single
 categories: reading
 tags: [reading, "리사 펠드먼 배럿", "이토록 뜻밖의 뇌과학"]
 ---

@@ -1,5 +1,6 @@
 ---
 title: "우울할 땐 뇌 과학-앨릭스 코브(2018, 심심)"
+layout: single
 categories: reading
 tags: [reading, "앨릭스 코브", "우울할 땐 뇌 과학"]
 ---

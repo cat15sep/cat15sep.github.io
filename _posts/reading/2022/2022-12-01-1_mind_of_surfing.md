@@ -1,5 +1,6 @@
 ---
 title: "서핑하는 정신-한은형(2022,작가정신)"
+layout: single
 category: reading
 tags: [reading, 한은형, "서핑하는 정신"]
 ---
